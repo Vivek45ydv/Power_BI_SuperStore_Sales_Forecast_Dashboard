@@ -20,6 +20,7 @@ One of the key features of this project is the utilization of the Power BI Forec
 
 ## Dashboard
 Leveraged PowerBI visualization tools and DAX functions to design insightful charts and user-friendly dashboard. Users have the flexibility to apply real-time filters, enabling a targeted analysis of specific metrics and facilitating deeper insights.
+![Super_store_sales](https://github.com/Vivek45ydv/Power_BI_SuperStore_Sales_Forecast_Dashboard/assets/155508387/a90d09bd-fd81-4483-b950-5849032a24d9)
 
 ## Challenges and Learnings
   1. Proficiency in Chart Selection: Recognizing the appropriate chart types and their respective applications.
